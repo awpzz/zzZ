@@ -4,6 +4,8 @@
 
 **Limpieza cerebral**: El sueño permite la eliminación de residuos tóxicos y la desintoxicación cerebral, lo que ayuda a mantener la salud mental y prevenir el deterioro cognitivo.
 
+<img src="inevitable-dormir-segurmania640.jpg" alt="Dormir es inevitable" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
+
 **Regulación del estrés**: El sueño ayuda a reducir los niveles de estrés y a equilibrar las hormonas del estrés, lo que a su vez mejora la salud mental y física.
 
 **Mejora de la memoria y aprendizaje**: El sueño es esencial para la consolidación de la memoria y el aprendizaje, ya que durante la fase REM del sueño, el hipocampo restaura y transforma la memoria a corto plazo en memoria a largo plazo.
