@@ -1,4 +1,10 @@
-# Ikea Camas
+<table>
+  <thead>
+    <tr>
+      <h1 style="background-color: #f00; color: #0000FF; text-align: center;">Camas Ikea</h1>
+    </tr>
+  </thead>
+
 ## "Dormir es importante"
 ### Dormir es un componente vital para el bienestar físico y mental de las personas. Ofrece estos beneficios clave del sueño:
 
@@ -17,14 +23,11 @@
 **Equilibrio hormonal**: El sueño ayuda a equilibrar los niveles hormonales, lo que es importante para la salud reproductiva y el desarrollo.
 
 **Mejora de la piel**: El sueño produce colágeno, lo que ayuda a reparar y rejuvenecer la piel.
+                                  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center">[Camas Ikea](https://www.ikea.com/es/es/cat/camas-bm003/)</p>
+<p align="center">Camas ergonomicas de calidad</p>
+<p align="center">Camas supletorias y divanes</p>
 
-
-[Camas Ikea](https://www.ikea.com/es/es/cat/camas-bm003/)
-p {
-  text-align: center;
-<ol>
-  <li>Camas ergonomicas de calidad</li>
-  <li>Camas supletorias y divanes</li>
-  }
-  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="450_1000.png" align="center">
