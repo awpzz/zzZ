@@ -6,13 +6,13 @@
 
 <div align="center">
 
-## "Dormir es importante"
+## "Dormir es importante para los sentidos"
 
 </div>
 
 <div align="center">
 
-[Motivos](https://github.com/awpzz/zzZ/blob/main/Motivos.md)
+[Razones](https://github.com/awpzz/zzZ/blob/main/Motivos.md)
 <div align="center">
 
 # Camas Ikea
