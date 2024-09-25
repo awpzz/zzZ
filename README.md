@@ -7,7 +7,7 @@
 
 ## "Dormir es importante"
 
-[Motivos]()
+[Motivos](https://github.com/awpzz/zzZ/blob/main/Motivos.md)
 
 ### Dormir es un componente vital para el bienestar físico y mental de las personas. Ofrece estos beneficios clave del sueño:
 
