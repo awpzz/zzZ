@@ -31,6 +31,10 @@
 <p align="center">Camas supletorias y divanes</p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Cama](https://www.ikea.com/es/es/p/malm-estructura-cama-blanco-s29931596/)
+⬇⬇⬇
+
+
 <div style="display: flex; justify-content: center; align-items: center;">
 
   <img width="480" height="480" src="450_1000.png" style="margin-right: 20px;">
