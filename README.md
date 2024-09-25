@@ -6,6 +6,9 @@
   </thead>
 
 ## "Dormir es importante"
+
+[Motivos]()
+
 ### Dormir es un componente vital para el bienestar físico y mental de las personas. Ofrece estos beneficios clave del sueño:
 
 **Reparación y renovación**: Durante el sueño, el cuerpo libera hormonas que ayudan a reparar las células y controlar el uso de energía. Esto es esencial para el crecimiento y desarrollo, especialmente en niños y adolescentes.
@@ -25,7 +28,7 @@
 **Mejora de la piel**: El sueño produce colágeno, lo que ayuda a reparar y rejuvenecer la piel.
                                   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">[Camas Ikea](https://www.ikea.com/es/es/cat/camas-bm003/)</p>
+<h2 align="center"> [Camas Ikea](https://www.ikea.com/es/es/cat/camas-bm003/) </h2>
 <p align="center">Camas ergonomicas de calidad</p>
 <p align="center">Camas supletorias y divanes</p>
 
