@@ -25,4 +25,3 @@
   <li>Camas supletorias y divanes</li>
   
 <img src="450_1000.png" align="center">
-<img src="450_1000.png" />
