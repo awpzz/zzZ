@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[Razones](https://github.com/awpzz/zzZ/blob/main/Motivos.md)
+[Motivos](https://github.com/awpzz/zzZ/blob/main/Motivos.md)
 <div align="center">
 
 # Camas Ikea
