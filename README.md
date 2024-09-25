@@ -17,9 +17,6 @@
 
 # Camas Ikea
 
-</div>
-</div>
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
@@ -42,3 +39,22 @@
 
 </div>
 
+```html
+html
+</div>
+</head>
+<body>
+
+  <h1>Bienvenido a Mi Página </h1>
+
+  <h2>Mis Frutas Favoritas</h2>
+    <ul>
+        <li>Manzana</li>
+        <li>Banana</li>
+        <li>Fresa</li>
+        <li>Naranja</li>
+    </ul>
+
+  <h2>Una Imagen Bonita</h2>
+    <img src="https://via.placeholder.com/300" alt="Imagen bonita" />
+```
