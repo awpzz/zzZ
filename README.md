@@ -20,8 +20,11 @@
 
 
 [Camas Ikea](https://www.ikea.com/es/es/cat/camas-bm003/)
+p {
+  text-align: center;
 <ol>
   <li>Camas ergonomicas de calidad</li>
   <li>Camas supletorias y divanes</li>
+  }
   
 <img src="450_1000.png" align="center">
